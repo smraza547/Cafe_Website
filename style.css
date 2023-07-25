@@ -11,7 +11,7 @@ h1{
 
 }
 body{
-    background-image: url(https://img.freepik.com/free-vector/wooden-wall-floor-with-aged-surface-realistic_107791-682.jpg?w=1800&t=st=1690290657~exp=1690291257~hmac=eb17566833fb2b74d3a8823c24a0e1e50b6a017e593bb4e38953453e09723fb0);
+    background-image: url(./images/mainbackground.avif);
 }
 hr{
     height:5px;
@@ -63,18 +63,18 @@ section{
     background-size:cover;
 }
 .coffee{
-    background-image: url("https://cdn.pixabay.com/photo/2018/01/11/21/28/coffee-3076958_1280.jpg");
+    background-image: url("./images/Coffee_background.jpg");
 }
 .chai{
-    background-image: url("https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-image: url("./images/teaback.png");
     
 }
 .cold{
-    background-image: url("https://images.pexels.com/photos/2795026/pexels-photo-2795026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-image: url("./images/cold_drinkback.jpeg");
     
 }
 .dessert{
-    background-image: url("https://images.pexels.com/photos/2466047/pexels-photo-2466047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-image: url("./images/dessert.jpg");
     
 }
 .footer{
@@ -84,4 +84,3 @@ section{
     margin-top: 10%;
     margin-bottom: 2px;
 }
-
