@@ -11,7 +11,7 @@ h1{
 
 }
 body{
-    background-image: url(./images/mainbackground.avif);
+    background-image: url("./Images/mainbackground.avif");
 }
 hr{
     height:5px;
@@ -63,18 +63,18 @@ section{
     background-size:cover;
 }
 .coffee{
-    background-image: url("./images/Coffee_background.jpg");
+    background-image: url("./Images/Coffee_background.jpg");
 }
 .chai{
-    background-image: url("./images/teaback.png");
+    background-image: url("./Images/teaback.png");
     
 }
 .cold{
-    background-image: url("./images/cold_drinkback.jpeg");
+    background-image: url("./Images/cold_drinkback.jpeg");
     
 }
 .dessert{
-    background-image: url("./images/dessert.jpg");
+    background-image: url("./Images/dessert.jpg");
     
 }
 .footer{
