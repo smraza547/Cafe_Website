@@ -1,0 +1,87 @@
+.coffee_title{
+    text-align: center;
+    display: block;
+    font-weight: 1000;
+    font-style:italic
+}
+h1{
+    font-size: 40px;
+    margin-top: 2px;
+    margin-bottom: 0;
+
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/wooden-wall-floor-with-aged-surface-realistic_107791-682.jpg?w=1800&t=st=1690290657~exp=1690291257~hmac=eb17566833fb2b74d3a8823c24a0e1e50b6a017e593bb4e38953453e09723fb0);
+}
+hr{
+    height:5px;
+    background-color: white;
+}
+.top_divider{
+    margin-top:-10px;
+    margin-bottom: 30px;
+}
+.bottom_divider{
+    margin-top:30px;
+}
+main{
+    background-color:rgb(97, 19, 2);
+    width:80%;
+    margin:auto;
+    max-width:  750px;
+    padding:15px;
+    opacity: 0.9;
+    color:white;
+}
+h2{
+    display: inline-block;
+    margin: 0 auto;
+    
+}
+.item p{
+    display: inline-block;
+}
+.type{
+    width:80%;
+    text-align: left;
+}
+.price{
+    width: 15%;
+    text-align: right;
+}
+section{
+    display: inline-block;
+    text-align: center;
+}
+.menu{
+    padding: 5px 5px;
+    width:46%;
+   
+    font-weight: 700;
+    border-style: dotted;  
+    margin: auto;
+    background-size:cover;
+}
+.coffee{
+    background-image: url("https://cdn.pixabay.com/photo/2018/01/11/21/28/coffee-3076958_1280.jpg");
+}
+.chai{
+    background-image: url("https://images.pexels.com/photos/230477/pexels-photo-230477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    
+}
+.cold{
+    background-image: url("https://images.pexels.com/photos/2795026/pexels-photo-2795026.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    
+}
+.dessert{
+    background-image: url("https://images.pexels.com/photos/2466047/pexels-photo-2466047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    
+}
+.footer{
+    width: 100%;
+}
+.credits p,.quote p{
+    margin-top: 10%;
+    margin-bottom: 2px;
+}
+
