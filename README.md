@@ -1,8 +1,11 @@
 # Cafe_Website
 This is my first website made using HTML and CSS. Inspired through freeCodeCamp and META Front-End Developer starting courses. 
 
-Website-Link: "https://smraza547.github.io/Cafe_Website/"
+## ** [Go to Website][Web_Link]
 
-Repository Link: "https://github.com/smraza547/Cafe_Website"
+## ** [Go to Repository][Repo_Link] 
 
-*Note this website is not mobile responsive and I will update it once I learn the Media Tags and Flexbox.*
+*Mobile Responsiveness built with Basic HTML and Css(Flexbox, MediaQueries)*
+
+[Web_Link]:"https://smraza547.github.io/Cafe_Website/"
+[Repo_Link]: "https://github.com/smraza547/Cafe_Website"
