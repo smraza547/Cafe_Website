@@ -7,5 +7,5 @@ This is my first website made using HTML and CSS. Inspired through freeCodeCamp 
 
 *Mobile Responsiveness built with Basic HTML and Css(Flexbox, MediaQueries)*
 
-[Web_Link]:"https://smraza547.github.io/Cafe_Website/"
-[Repo_Link]: "https://github.com/smraza547/Cafe_Website"
+[Web_Link]:https://smraza547.github.io/Cafe_Website/
+[Repo_Link]: https://github.com/smraza547/Cafe_Website
